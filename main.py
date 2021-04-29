@@ -4,3 +4,9 @@
 # Call the greet() function and run your code.
 
 
+def greet():
+  print("Hi there")
+  print("Ciao, come va?")
+  print("Howdy")
+
+greet()
